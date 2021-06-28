@@ -17,7 +17,7 @@ Usage: pixels [--start num] [--stop num] [-e]
 Options:
       --help     Show help...                                          [boolean]
       --version  0.0.1                                                 [boolean]
-  -x, --start    Start Value (px)                          [number] [default: 0]
+  -a, --start    Start Value (px)                          [number] [default: 0]
   -z, --stop     Stop Value (px)                         [number] [default: 100]
   -s, --single   Single Value                         [boolean] [default: false]
   -e, --export   Export as Config                     [boolean] [default: false]

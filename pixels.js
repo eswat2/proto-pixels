@@ -1,7 +1,7 @@
 var { argv } = require('yargs')
   .scriptName('pixels')
   .usage('Usage: $0 [--start num] [--stop num] [-e]')
-  .option('x', {
+  .option('a', {
     alias: 'start',
     describe: 'Start Value (px)',
     default: 0,
